@@ -1,9 +1,7 @@
 # Blender Gaussian Quick Viewer (3DGS / 4DGS)
 ![Banner Recommendation](asset/Banner_Corgi.png)
 
-A lightweight Gaussian data visualization node for Blender
-
-📘 Overview | 简介
+📘 Overview
 
 A custom Blender node originally developed by Mediastorm during the ASUS 4DGS Yungang Grottoes project.
 It supports loading and previewing of 3D Gaussian Splatting (3DGS) and 4D Gaussian Splatting (4DGS) datasets,
@@ -126,7 +124,7 @@ His guidance ensured this tool was built on a correct conceptual foundation.
 ## 📺 Follow & Contact
 
 For development logs (in Chinese):
-👉 [史莱姆的个人空间（Bilibili）](https://space.bilibili.com/383900492/)
+👉 [(Bilibili)](https://space.bilibili.com/383900492/)
 
 ---
 
