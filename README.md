@@ -18,15 +18,11 @@ which received the Best in Show Award.
 
 The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
 
-👉 Blender Demo File – Gaussian Quick Viewer
+👉 Blender Demo File – Blender Real-time 4D Gaussian Splatting Demo (coming soon)
 
-For full workflow and implementation details of the real-time 4D Gaussian Splatting system,
-please visit the documentation page:
+👉 Details Page – [Blender Real-time 4D Gaussian Splatting](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
-👉 Details Page – Blender Real-time 4D Gaussian Splatting
-
-*4DGS dataset download (example scenes):
-https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd
+👉 4DGS dataset(example scenes) - [download](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
 
 ---
 
