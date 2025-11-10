@@ -1,7 +1,7 @@
 # Blender Gaussian Quick Viewer (3DGS / 4DGS)
 ![Banner Recommendation](asset/Banner_Corgi.png)
 
-📘 Overview
+Overview
 
 A custom Blender node originally developed by Mediastorm during the ASUS 4DGS Yungang Grottoes project.
 It supports loading and previewing of 3D Gaussian Splatting (3DGS) and 4D Gaussian Splatting (4DGS) datasets,
@@ -16,24 +16,24 @@ which received the Best in Show Award.
 
 The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
 
-👉 Blender Demo File – Blender Real-time 4D Gaussian Splatting Demo (coming soon)
+Blender Demo File – Blender Real-time 4D Gaussian Splatting Demo (coming soon)
 
-👉 Details Page – [Blender Real-time 4D Gaussian Splatting](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
+Documentation – [Blender Real-time 4D Gaussian Splatting](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
-👉 4DGS dataset(example scenes) - [download](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
-
----
-
-🧩 Features
-
-✅ Load and visualize .ply files for 3DGS and 4DGS
-✅ Basic shader presets for stylized or analytic previews
-✅ Easy to integrate into custom Blender pipelines
-🧪 Experimental visualization for dynamic 4DGS sequences
+4DGS dataset(example scenes) - [download](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
 
 ---
 
-🔧 Requirements
+Features
+
+Load and visualize .ply files for 3DGS and 4DGS
+Basic shader presets for stylized or analytic previews
+Easy to integrate into custom Blender pipelines
+Experimental visualization for dynamic 4DGS sequences
+
+---
+
+Requirements
 
 Blender 4.3+
 
@@ -41,7 +41,7 @@ Platform: Windows / macOS / Linux
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone or download this repository.
    
 [![Preview](asset/M0.jpg)]()
@@ -70,18 +70,6 @@ Platform: Windows / macOS / Linux
 ⚠️ Important:
 If your 4DGS .ply file contains an attribute named t, rename it to ttt before import —
 Blender silently ignores attributes named t due to internal parsing rules.
-
----
-
-🧱 Relation to UGRS
-
-This viewer is part of the Universal Gaussian Rendering System (UGRS) pipeline,
-serving as a lightweight, point-based front-end tool for inspecting Gaussian data
-before final rendering in external engines.
-
-👉 Explore the Universal Gaussian Rendering System (UGRS):
-
-(Under construction – full system release coming soon)
 
 ---
 
@@ -125,9 +113,3 @@ His guidance ensured this tool was built on a correct conceptual foundation.
 
 For development logs (in Chinese):
 👉 [(Bilibili)](https://space.bilibili.com/383900492/)
-
----
-
-## 📄 License
-
-MIT License
