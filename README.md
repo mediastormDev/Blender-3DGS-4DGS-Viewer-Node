@@ -16,7 +16,7 @@ which received the Best in Show Award.
 
 The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
 
-Blender Demo File – Blender Real-time 4D Gaussian Splatting Demo (coming soon)
+Blender Demo File – [Blender Real-time 4D Gaussian Splatting Demo](https://www.blender.org/download/demo-files/#geometry-nodes)
 
 Documentation – [Blender Real-time 4D Gaussian Splatting](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
