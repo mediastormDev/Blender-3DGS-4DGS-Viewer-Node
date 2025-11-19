@@ -1,3 +1,11 @@
+The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
+
+[Blender Demo File - Blender Real-time 4D Gaussian Splatting](https://www.blender.org/download/demo-files/#geometry-nodes)
+ 
+[Showcase Documentation](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
+
+[4DGS Ply](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
+
 # Blender Gaussian Quick Viewer (3DGS / 4DGS)
 ![Banner Recommendation](asset/Banner_Corgi.png)
 
@@ -14,13 +22,6 @@ Its technology was later featured in the SIGGRAPH 2025 Real-Time Live! showcase
 “InfiniteStudio: 4D Volumetric Capture for Filmmaking and Beyond” —
 which received the Best in Show Award.
 
-The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
-
-Blender Demo File – [Blender Real-time 4D Gaussian Splatting Demo](https://www.blender.org/download/demo-files/#geometry-nodes)
-
-Documentation – [Blender Real-time 4D Gaussian Splatting](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
-
-4DGS dataset(example scenes) - [download](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
 
 ---
 
