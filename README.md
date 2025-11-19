@@ -1,10 +1,18 @@
-The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
+# Cycles native ray-traced Gaussian rendering in an infinite mirror environment.
+![Demo Banner](asset/Cat.JPEG)
+
+# Real-time 4DGS bullet-time effect rendered entirely in Eevee.
+![Demo Banner](asset/Nunchucks.JPEG)
+
+# The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
 
 [Blender Demo File - Blender Real-time 4D Gaussian Splatting](https://www.blender.org/download/demo-files/#geometry-nodes)
  
 [Showcase Documentation](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
 [4DGS Ply](https://pan.baidu.com/s/1pYY0hi6xXo2q32mOzjXqJQ?pwd=ncdd)
+
+---
 
 # Blender Gaussian Quick Viewer (3DGS / 4DGS)
 ![Banner Recommendation](asset/Banner_Corgi.png)
