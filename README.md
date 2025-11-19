@@ -1,12 +1,14 @@
-# Cycles native ray-traced Gaussian rendering in an infinite mirror environment.
+## The UGRS 4D Gaussian Splatting project is now officially live on the [Blender Demo Files page](https://www.blender.org/download/demo-files/#geometry-nodes)
 ![Demo Banner](asset/Cat.JPEG)
+## Cycles native ray-traced Gaussian rendering in an infinite mirror environment.
 
-# Real-time 4DGS bullet-time effect rendered entirely in Eevee.
 ![Demo Banner](asset/Nunchucks.JPEG)
-
-# The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
+## Real-time 4DGS bullet-time effect rendered entirely in Eevee.
 
 [Blender Demo File - UGRS Real-time 4DGS Demo for Blender 5.0](https://www.blender.org/download/demo-files/#geometry-nodes)
+ © 2025 Mediastorm & 4DV.ai — Released under the Creative Commons Attribution (CC-BY 4.0) License.
+
+This demo is part of the SIGGRAPH 2025 Real-Time Live! “InfiniteStudio: 4D Volumetric Capture for Filmmaking and Beyond” showcase, recognized with the Best in Show award.
  
 [Showcase Documentation](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
@@ -14,7 +16,7 @@
 
 ---
 
-# Blender Gaussian Quick Viewer (3DGS / 4DGS)
+## Blender Gaussian Quick Viewer
 ![Banner Recommendation](asset/Banner_Corgi.png)
 
 Overview
