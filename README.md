@@ -6,7 +6,7 @@
 
 # The Blender demo from that showcase has since been officially included in the Blender Demo Files collection:
 
-[Blender Demo File - Blender Real-time 4D Gaussian Splatting](https://www.blender.org/download/demo-files/#geometry-nodes)
+[Blender Demo File - UGRS Real-time 4DGS Demo for Blender 5.0](https://www.blender.org/download/demo-files/#geometry-nodes)
  
 [Showcase Documentation](https://mediastorm.feishu.cn/wiki/FX4uwBlbci141PkyuqYcGbNInpe?from=from_copylink)
 
